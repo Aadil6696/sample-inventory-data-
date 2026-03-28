@@ -1,0 +1,451 @@
+Date,Product_ID,Product_Name,Quantity_Sold,Quantity_Received,Quantity_Wasted,Opening_Stock,Closing_Stock,Unit_Cost,Unit_Price,Reorder_Threshold,Reorder_Lead_Time_Days,Supplier_Name
+01/01/2023,D001,Engine Oil Filter,466,0,2,1017,549,8,11.2,300,2,"Johnson, Hayes and Green"
+01/01/2023,D002,Car Battery 12V,146,137,3,466,454,45,63.0,100,5,Jones-Moore
+01/01/2023,D003,Brake Pad Set,121,0,2,328,205,35,49.0,150,3,Norman PLC
+01/01/2023,D004,Alternator Assembly,34,55,2,202,221,120,168.0,50,7,Johnson-Adams
+01/01/2023,D005,Radiator Coolant,416,0,1,1025,608,12,16.8,200,2,Hood-Roberts
+01/01/2023,D006,Timing Belt Kit,69,0,2,232,161,55,77.0,60,6,Roberts-Jackson
+01/01/2023,D007,Shock Absorber,34,0,1,160,125,85,119.0,75,5,Delgado-Drake
+01/01/2023,D008,Transmission Fluid,119,0,3,485,363,18,25.2,180,2,Jennings-Velasquez
+01/01/2023,D009,Catalytic Converter,21,0,0,195,174,180,252.0,30,10,Terry Ltd
+01/01/2023,D010,Fuel Injector,54,0,1,259,204,95,133.0,60,8,"Reynolds, Miller and Wilson"
+01/01/2023,D011,Air Filter Unit,374,0,3,1076,699,10,14.0,250,2,"Burke, Leon and Harrington"
+01/01/2023,D012,Spark Plug Set,399,301,4,897,795,14,19.6,300,2,Williams-Mendoza
+01/01/2023,D013,Power Steering Pump,26,19,2,278,269,110,154.0,40,9,Brown-Farley
+01/01/2023,D014,Exhaust Manifold,89,0,0,631,542,140,196.0,35,10,Luna PLC
+01/01/2023,D015,Clutch Plate Assembly,34,12,2,163,139,95,133.0,45,7,Khan PLC
+01/02/2023,D001,Engine Oil Filter,443,0,0,549,106,8,11.2,300,2,Medina-Cole
+01/02/2023,D002,Car Battery 12V,126,0,3,454,325,45,63.0,100,5,Smith LLC
+01/02/2023,D003,Brake Pad Set,82,0,3,205,120,35,49.0,150,3,Garza-Nelson
+01/02/2023,D004,Alternator Assembly,53,0,2,221,166,120,168.0,50,7,Lawrence Group
+01/02/2023,D005,Radiator Coolant,475,181,5,608,309,12,16.8,200,2,"Chapman, Daniels and Barnett"
+01/02/2023,D006,Timing Belt Kit,30,0,1,161,130,55,77.0,60,6,Carter-Jackson
+01/02/2023,D007,Shock Absorber,25,0,1,125,99,85,119.0,75,5,Harris-Davis
+01/02/2023,D008,Transmission Fluid,81,0,1,363,281,18,25.2,180,2,Thompson Inc
+01/02/2023,D009,Catalytic Converter,31,0,0,174,143,180,252.0,30,10,"Bowen, Allen and Mccarty"
+01/02/2023,D010,Fuel Injector,32,0,0,204,172,95,133.0,60,8,Adams-Richards
+01/02/2023,D011,Air Filter Unit,287,0,4,699,408,10,14.0,250,2,Holt-Lindsey
+01/02/2023,D012,Spark Plug Set,441,394,3,795,745,14,19.6,300,2,Sanford LLC
+01/02/2023,D013,Power Steering Pump,68,0,1,269,200,110,154.0,40,9,Mckinney PLC
+01/02/2023,D014,Exhaust Manifold,76,0,1,542,465,140,196.0,35,10,"Schaefer, Leach and Chavez"
+01/02/2023,D015,Clutch Plate Assembly,60,22,1,139,100,95,133.0,45,7,"Shaw, Spencer and Callahan"
+01/03/2023,D001,Engine Oil Filter,106,0,3,106,0,8,11.2,300,2,Hernandez-Carter
+01/03/2023,D002,Car Battery 12V,130,0,3,325,192,45,63.0,100,5,Schneider-Campbell
+01/03/2023,D003,Brake Pad Set,75,0,1,120,44,35,49.0,150,3,Parker Inc
+01/03/2023,D004,Alternator Assembly,22,0,1,166,143,120,168.0,50,7,Wilkerson-Brewer
+01/03/2023,D005,Radiator Coolant,309,0,2,309,0,12,16.8,200,2,"White, Guzman and Santos"
+01/03/2023,D006,Timing Belt Kit,44,0,1,130,85,55,77.0,60,6,"Patel, Rios and Jordan"
+01/03/2023,D007,Shock Absorber,56,0,2,99,41,85,119.0,75,5,"Hawkins, Richardson and Smith"
+01/03/2023,D008,Transmission Fluid,149,0,1,281,131,18,25.2,180,2,Schmidt Inc
+01/03/2023,D009,Catalytic Converter,70,0,0,143,73,180,252.0,30,10,Eaton-Yates
+01/03/2023,D010,Fuel Injector,11,0,1,172,160,95,133.0,60,8,"Garcia, Collins and Collins"
+01/03/2023,D011,Air Filter Unit,357,341,4,408,388,10,14.0,250,2,"Simmons, Donaldson and Castillo"
+01/03/2023,D012,Spark Plug Set,449,0,5,745,291,14,19.6,300,2,Thompson-Evans
+01/03/2023,D013,Power Steering Pump,50,28,2,200,176,110,154.0,40,9,Martin-Berry
+01/03/2023,D014,Exhaust Manifold,93,0,1,465,371,140,196.0,35,10,Rios and Sons
+01/03/2023,D015,Clutch Plate Assembly,10,42,1,100,131,95,133.0,45,7,"Sherman, Harrison and Parrish"
+01/04/2023,D001,Engine Oil Filter,0,0,0,0,0,8,11.2,300,2,Maxwell Group
+01/04/2023,D002,Car Battery 12V,114,0,0,192,78,45,63.0,100,5,"Wong, Stafford and Reynolds"
+01/04/2023,D003,Brake Pad Set,44,0,1,44,0,35,49.0,150,3,"Fry, Taylor and Petersen"
+01/04/2023,D004,Alternator Assembly,26,30,1,143,146,120,168.0,50,7,"Webster, Marquez and Castro"
+01/04/2023,D005,Radiator Coolant,0,0,1,0,0,12,16.8,200,2,"Moore, Frost and Lee"
+01/04/2023,D006,Timing Belt Kit,68,0,1,85,16,55,77.0,60,6,Thomas Inc
+01/04/2023,D007,Shock Absorber,32,0,2,41,7,85,119.0,75,5,Henderson Ltd
+01/04/2023,D008,Transmission Fluid,118,116,1,131,128,18,25.2,180,2,Lawson-Aguirre
+01/04/2023,D009,Catalytic Converter,25,0,1,73,47,180,252.0,30,10,Griffin-Miller
+01/04/2023,D010,Fuel Injector,41,36,0,160,155,95,133.0,60,8,Miller Inc
+01/04/2023,D011,Air Filter Unit,369,393,2,388,410,10,14.0,250,2,"Sparks, Pacheco and Smith"
+01/04/2023,D012,Spark Plug Set,346,217,0,291,162,14,19.6,300,2,Dunlap-Miller
+01/04/2023,D013,Power Steering Pump,75,31,1,176,131,110,154.0,40,9,"Walton, Anderson and Foster"
+01/04/2023,D014,Exhaust Manifold,87,56,1,371,339,140,196.0,35,10,Hernandez-Davis
+01/04/2023,D015,Clutch Plate Assembly,45,0,1,131,85,95,133.0,45,7,Delacruz LLC
+01/05/2023,D001,Engine Oil Filter,0,0,0,0,0,8,11.2,300,2,Jones and Sons
+01/05/2023,D002,Car Battery 12V,78,0,0,78,0,45,63.0,100,5,"Elliott, Hobbs and Jones"
+01/05/2023,D003,Brake Pad Set,0,0,3,0,0,35,49.0,150,3,Rogers-Gonzalez
+01/05/2023,D004,Alternator Assembly,37,0,1,146,108,120,168.0,50,7,King-Moses
+01/05/2023,D005,Radiator Coolant,0,0,5,0,0,12,16.8,200,2,Morgan LLC
+01/05/2023,D006,Timing Belt Kit,16,0,0,16,0,55,77.0,60,6,"Bradshaw, Weber and Howell"
+01/05/2023,D007,Shock Absorber,7,0,0,7,0,85,119.0,75,5,"White, Berry and Garner"
+01/05/2023,D008,Transmission Fluid,138,114,3,128,101,18,25.2,180,2,Lewis-Leon
+01/05/2023,D009,Catalytic Converter,47,0,1,47,0,180,252.0,30,10,Patterson-Hernandez
+01/05/2023,D010,Fuel Injector,33,30,1,155,151,95,133.0,60,8,"Bailey, Taylor and Hahn"
+01/05/2023,D011,Air Filter Unit,360,0,5,410,45,10,14.0,250,2,Dunn Inc
+01/05/2023,D012,Spark Plug Set,162,0,0,162,0,14,19.6,300,2,"Nguyen, Hayes and Bailey"
+01/05/2023,D013,Power Steering Pump,27,0,2,131,102,110,154.0,40,9,Mcintyre-Pollard
+01/05/2023,D014,Exhaust Manifold,91,0,1,339,247,140,196.0,35,10,Haley PLC
+01/05/2023,D015,Clutch Plate Assembly,38,0,0,85,47,95,133.0,45,7,Stone-Walker
+01/06/2023,D001,Engine Oil Filter,0,0,5,0,0,8,11.2,300,2,Cooke-Moody
+01/06/2023,D002,Car Battery 12V,101,107,3,0,3,45,63.0,100,5,"Oneal, West and Franco"
+01/06/2023,D003,Brake Pad Set,0,0,2,0,0,35,49.0,150,3,Carlson-Mitchell
+01/06/2023,D004,Alternator Assembly,18,0,2,108,88,120,168.0,50,7,Jacobs PLC
+01/06/2023,D005,Radiator Coolant,0,0,1,0,0,12,16.8,200,2,"Johnson, Herrera and Lynn"
+01/06/2023,D006,Timing Belt Kit,0,0,2,0,0,55,77.0,60,6,"Wright, Brown and Wilson"
+01/06/2023,D007,Shock Absorber,0,0,1,0,0,85,119.0,75,5,Hoffman-Flores
+01/06/2023,D008,Transmission Fluid,101,0,2,101,0,18,25.2,180,2,"Baird, Yates and Beck"
+01/06/2023,D009,Catalytic Converter,0,0,0,0,0,180,252.0,30,10,Hansen PLC
+01/06/2023,D010,Fuel Injector,66,55,2,151,138,95,133.0,60,8,"Santana, Harrell and Rivera"
+01/06/2023,D011,Air Filter Unit,296,251,1,45,0,10,14.0,250,2,"Jones, Cook and Valencia"
+01/06/2023,D012,Spark Plug Set,0,0,2,0,0,14,19.6,300,2,Russo Group
+01/06/2023,D013,Power Steering Pump,32,0,2,102,68,110,154.0,40,9,Cameron LLC
+01/06/2023,D014,Exhaust Manifold,105,0,0,247,142,140,196.0,35,10,"Lawrence, Osborn and Love"
+01/06/2023,D015,Clutch Plate Assembly,47,0,2,47,0,95,133.0,45,7,Sutton and Sons
+01/07/2023,D001,Engine Oil Filter,0,0,5,0,0,8,11.2,300,2,"Bell, Cobb and Valencia"
+01/07/2023,D002,Car Battery 12V,3,0,1,3,0,45,63.0,100,5,Jensen-Patel
+01/07/2023,D003,Brake Pad Set,0,0,1,0,0,35,49.0,150,3,Watson-Bell
+01/07/2023,D004,Alternator Assembly,34,25,2,88,77,120,168.0,50,7,Payne Group
+01/07/2023,D005,Radiator Coolant,0,0,2,0,0,12,16.8,200,2,Miles Ltd
+01/07/2023,D006,Timing Belt Kit,0,0,2,0,0,55,77.0,60,6,Patterson-Cole
+01/07/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,"Roy, Phillips and Dyer"
+01/07/2023,D008,Transmission Fluid,56,56,3,0,0,18,25.2,180,2,Berg PLC
+01/07/2023,D009,Catalytic Converter,0,0,2,0,0,180,252.0,30,10,"Smith, Collins and House"
+01/07/2023,D010,Fuel Injector,31,0,0,138,107,95,133.0,60,8,Nguyen Ltd
+01/07/2023,D011,Air Filter Unit,312,312,5,0,0,10,14.0,250,2,"Meyer, Joseph and Harvey"
+01/07/2023,D012,Spark Plug Set,262,262,4,0,0,14,19.6,300,2,"Heath, Hopkins and Lucas"
+01/07/2023,D013,Power Steering Pump,40,0,1,68,27,110,154.0,40,9,Benton-Blake
+01/07/2023,D014,Exhaust Manifold,81,0,3,142,58,140,196.0,35,10,Walsh-Cuevas
+01/07/2023,D015,Clutch Plate Assembly,41,41,0,0,0,95,133.0,45,7,Henry-Abbott
+01/08/2023,D001,Engine Oil Filter,0,0,1,0,0,8,11.2,300,2,Holt PLC
+01/08/2023,D002,Car Battery 12V,0,0,1,0,0,45,63.0,100,5,Sparks-Aguilar
+01/08/2023,D003,Brake Pad Set,0,0,3,0,0,35,49.0,150,3,"Perez, Cruz and Simmons"
+01/08/2023,D004,Alternator Assembly,57,18,2,77,36,120,168.0,50,7,Ortiz PLC
+01/08/2023,D005,Radiator Coolant,0,0,4,0,0,12,16.8,200,2,"Martinez, Diaz and King"
+01/08/2023,D006,Timing Belt Kit,0,0,0,0,0,55,77.0,60,6,"Schneider, Chase and Oliver"
+01/08/2023,D007,Shock Absorber,34,51,1,0,16,85,119.0,75,5,"Tapia, Foster and Woodard"
+01/08/2023,D008,Transmission Fluid,0,0,0,0,0,18,25.2,180,2,"Parker, White and Rocha"
+01/08/2023,D009,Catalytic Converter,0,0,2,0,0,180,252.0,30,10,Bishop-Stark
+01/08/2023,D010,Fuel Injector,52,0,0,107,55,95,133.0,60,8,"Anderson, Nelson and Jackson"
+01/08/2023,D011,Air Filter Unit,0,0,4,0,0,10,14.0,250,2,Roman Ltd
+01/08/2023,D012,Spark Plug Set,0,0,3,0,0,14,19.6,300,2,Jackson-Perez
+01/08/2023,D013,Power Steering Pump,27,0,2,27,0,110,154.0,40,9,Juarez-Parker
+01/08/2023,D014,Exhaust Manifold,121,63,3,58,0,140,196.0,35,10,"Casey, Cook and Powers"
+01/08/2023,D015,Clutch Plate Assembly,18,18,1,0,0,95,133.0,45,7,Melton-Holt
+01/09/2023,D001,Engine Oil Filter,0,0,3,0,0,8,11.2,300,2,Hernandez-Nelson
+01/09/2023,D002,Car Battery 12V,0,0,1,0,0,45,63.0,100,5,Gates and Sons
+01/09/2023,D003,Brake Pad Set,118,135,0,0,17,35,49.0,150,3,"Huber, Wilson and Watson"
+01/09/2023,D004,Alternator Assembly,45,35,1,36,25,120,168.0,50,7,"Alvarado, Sawyer and Cooper"
+01/09/2023,D005,Radiator Coolant,0,0,4,0,0,12,16.8,200,2,Tanner-Schmitt
+01/09/2023,D006,Timing Belt Kit,0,0,2,0,0,55,77.0,60,6,"Brown, Fisher and Williams"
+01/09/2023,D007,Shock Absorber,16,0,0,16,0,85,119.0,75,5,Rose Inc
+01/09/2023,D008,Transmission Fluid,0,0,1,0,0,18,25.2,180,2,Collins-Garcia
+01/09/2023,D009,Catalytic Converter,29,29,1,0,0,180,252.0,30,10,Ramirez-Thompson
+01/09/2023,D010,Fuel Injector,17,0,0,55,38,95,133.0,60,8,Howell Ltd
+01/09/2023,D011,Air Filter Unit,0,0,0,0,0,10,14.0,250,2,Little LLC
+01/09/2023,D012,Spark Plug Set,0,0,0,0,0,14,19.6,300,2,Johnson-Martin
+01/09/2023,D013,Power Steering Pump,25,34,1,0,8,110,154.0,40,9,"Gonzalez, Yang and Mathews"
+01/09/2023,D014,Exhaust Manifold,94,94,1,0,0,140,196.0,35,10,"Barrera, Morris and Cooper"
+01/09/2023,D015,Clutch Plate Assembly,0,0,0,0,0,95,133.0,45,7,"Mcguire, Tran and Webb"
+01/10/2023,D001,Engine Oil Filter,0,0,3,0,0,8,11.2,300,2,Hill Inc
+01/10/2023,D002,Car Battery 12V,0,0,3,0,0,45,63.0,100,5,Mclean-Stevens
+01/10/2023,D003,Brake Pad Set,17,0,1,17,0,35,49.0,150,3,Davis Group
+01/10/2023,D004,Alternator Assembly,13,0,1,25,11,120,168.0,50,7,Flores PLC
+01/10/2023,D005,Radiator Coolant,0,0,5,0,0,12,16.8,200,2,"Jones, Wiggins and Perkins"
+01/10/2023,D006,Timing Belt Kit,0,0,2,0,0,55,77.0,60,6,Fox Inc
+01/10/2023,D007,Shock Absorber,0,0,1,0,0,85,119.0,75,5,Potts and Sons
+01/10/2023,D008,Transmission Fluid,0,0,2,0,0,18,25.2,180,2,"Frost, Reeves and Graves"
+01/10/2023,D009,Catalytic Converter,0,0,2,0,0,180,252.0,30,10,Craig-Bush
+01/10/2023,D010,Fuel Injector,22,14,0,38,30,95,133.0,60,8,"Reed, Jenkins and Moody"
+01/10/2023,D011,Air Filter Unit,0,0,2,0,0,10,14.0,250,2,"Conrad, Rangel and Matthews"
+01/10/2023,D012,Spark Plug Set,0,0,5,0,0,14,19.6,300,2,Barton LLC
+01/10/2023,D013,Power Steering Pump,8,0,2,8,0,110,154.0,40,9,Young-Cardenas
+01/10/2023,D014,Exhaust Manifold,0,0,2,0,0,140,196.0,35,10,Davila Ltd
+01/10/2023,D015,Clutch Plate Assembly,19,38,0,0,19,95,133.0,45,7,"Clark, Everett and Lopez"
+01/11/2023,D001,Engine Oil Filter,0,0,0,0,0,8,11.2,300,2,"Porter, Johnson and Palmer"
+01/11/2023,D002,Car Battery 12V,129,136,3,0,4,45,63.0,100,5,Scott-Lee
+01/11/2023,D003,Brake Pad Set,0,0,1,0,0,35,49.0,150,3,Harmon Ltd
+01/11/2023,D004,Alternator Assembly,11,0,1,11,0,120,168.0,50,7,Gamble PLC
+01/11/2023,D005,Radiator Coolant,0,0,4,0,0,12,16.8,200,2,Hansen-Crawford
+01/11/2023,D006,Timing Belt Kit,0,0,0,0,0,55,77.0,60,6,Johnson and Sons
+01/11/2023,D007,Shock Absorber,0,0,2,0,0,85,119.0,75,5,White LLC
+01/11/2023,D008,Transmission Fluid,0,0,2,0,0,18,25.2,180,2,"Gomez, Zimmerman and Johnson"
+01/11/2023,D009,Catalytic Converter,0,0,2,0,0,180,252.0,30,10,Hamilton-Keller
+01/11/2023,D010,Fuel Injector,30,0,2,30,0,95,133.0,60,8,"Mcdonald, Gibson and Beck"
+01/11/2023,D011,Air Filter Unit,299,299,3,0,0,10,14.0,250,2,Chen-Davis
+01/11/2023,D012,Spark Plug Set,0,0,2,0,0,14,19.6,300,2,Allen-Lucero
+01/11/2023,D013,Power Steering Pump,0,0,2,0,0,110,154.0,40,9,Bell-Martinez
+01/11/2023,D014,Exhaust Manifold,72,72,2,0,0,140,196.0,35,10,Benson-Bennett
+01/11/2023,D015,Clutch Plate Assembly,19,0,0,19,0,95,133.0,45,7,Richards Group
+01/12/2023,D001,Engine Oil Filter,223,397,5,0,169,8,11.2,300,2,Hansen Ltd
+01/12/2023,D002,Car Battery 12V,59,55,1,4,0,45,63.0,100,5,Clark Ltd
+01/12/2023,D003,Brake Pad Set,0,0,1,0,0,35,49.0,150,3,Compton-Hanson
+01/12/2023,D004,Alternator Assembly,0,0,1,0,0,120,168.0,50,7,Taylor and Sons
+01/12/2023,D005,Radiator Coolant,0,0,0,0,0,12,16.8,200,2,"Mccarthy, Jenkins and Gaines"
+01/12/2023,D006,Timing Belt Kit,0,0,0,0,0,55,77.0,60,6,Cruz-Garcia
+01/12/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,"Schneider, Copeland and Kelley"
+01/12/2023,D008,Transmission Fluid,0,0,3,0,0,18,25.2,180,2,Ramirez-Martinez
+01/12/2023,D009,Catalytic Converter,0,0,0,0,0,180,252.0,30,10,Sellers-Smith
+01/12/2023,D010,Fuel Injector,0,0,1,0,0,95,133.0,60,8,Rose Group
+01/12/2023,D011,Air Filter Unit,326,326,1,0,0,10,14.0,250,2,"Pearson, Myers and Meadows"
+01/12/2023,D012,Spark Plug Set,0,0,1,0,0,14,19.6,300,2,Meyers-Marshall
+01/12/2023,D013,Power Steering Pump,0,0,2,0,0,110,154.0,40,9,"Mcdaniel, Hull and Boyle"
+01/12/2023,D014,Exhaust Manifold,0,0,3,0,0,140,196.0,35,10,"Vargas, Estrada and Holmes"
+01/12/2023,D015,Clutch Plate Assembly,0,0,0,0,0,95,133.0,45,7,Hernandez Group
+01/13/2023,D001,Engine Oil Filter,169,0,2,169,0,8,11.2,300,2,Harris-Williams
+01/13/2023,D002,Car Battery 12V,0,0,1,0,0,45,63.0,100,5,Morales Group
+01/13/2023,D003,Brake Pad Set,60,60,3,0,0,35,49.0,150,3,Matthews-Rice
+01/13/2023,D004,Alternator Assembly,45,45,1,0,0,120,168.0,50,7,Roberts-Barker
+01/13/2023,D005,Radiator Coolant,0,0,4,0,0,12,16.8,200,2,Turner and Sons
+01/13/2023,D006,Timing Belt Kit,0,0,0,0,0,55,77.0,60,6,Fleming-Knight
+01/13/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,Evans-Gonzales
+01/13/2023,D008,Transmission Fluid,0,0,3,0,0,18,25.2,180,2,Wolfe-Dennis
+01/13/2023,D009,Catalytic Converter,19,40,1,0,20,180,252.0,30,10,Morales Group
+01/13/2023,D010,Fuel Injector,0,0,2,0,0,95,133.0,60,8,"Boyer, Cox and Johnson"
+01/13/2023,D011,Air Filter Unit,0,0,5,0,0,10,14.0,250,2,"Martinez, Smith and Johnston"
+01/13/2023,D012,Spark Plug Set,0,0,1,0,0,14,19.6,300,2,Tanner-Wilcox
+01/13/2023,D013,Power Steering Pump,0,0,1,0,0,110,154.0,40,9,White Ltd
+01/13/2023,D014,Exhaust Manifold,115,115,2,0,0,140,196.0,35,10,"Crosby, Smith and Pope"
+01/13/2023,D015,Clutch Plate Assembly,0,0,2,0,0,95,133.0,45,7,Garcia Inc
+01/14/2023,D001,Engine Oil Filter,0,0,4,0,0,8,11.2,300,2,Davis PLC
+01/14/2023,D002,Car Battery 12V,0,0,2,0,0,45,63.0,100,5,Morgan Inc
+01/14/2023,D003,Brake Pad Set,114,114,0,0,0,35,49.0,150,3,"Mendoza, Green and Miller"
+01/14/2023,D004,Alternator Assembly,0,0,2,0,0,120,168.0,50,7,Wolf Inc
+01/14/2023,D005,Radiator Coolant,0,0,2,0,0,12,16.8,200,2,Guerrero Group
+01/14/2023,D006,Timing Belt Kit,29,56,2,0,25,55,77.0,60,6,Wade Inc
+01/14/2023,D007,Shock Absorber,0,0,1,0,0,85,119.0,75,5,"Lester, Wallace and Davis"
+01/14/2023,D008,Transmission Fluid,0,0,1,0,0,18,25.2,180,2,Hawkins PLC
+01/14/2023,D009,Catalytic Converter,20,0,0,20,0,180,252.0,30,10,Rodriguez-Nelson
+01/14/2023,D010,Fuel Injector,19,19,0,0,0,95,133.0,60,8,Blackburn-Marshall
+01/14/2023,D011,Air Filter Unit,0,0,4,0,0,10,14.0,250,2,Cameron Ltd
+01/14/2023,D012,Spark Plug Set,0,0,0,0,0,14,19.6,300,2,Alexander-Robinson
+01/14/2023,D013,Power Steering Pump,0,0,2,0,0,110,154.0,40,9,"Warner, Hammond and Lynch"
+01/14/2023,D014,Exhaust Manifold,0,0,1,0,0,140,196.0,35,10,Snyder and Sons
+01/14/2023,D015,Clutch Plate Assembly,19,19,2,0,0,95,133.0,45,7,Garcia Ltd
+01/15/2023,D001,Engine Oil Filter,208,300,3,0,89,8,11.2,300,2,"Jones, Davis and Smith"
+01/15/2023,D002,Car Battery 12V,0,0,1,0,0,45,63.0,100,5,Hughes-Gonzalez
+01/15/2023,D003,Brake Pad Set,0,0,1,0,0,35,49.0,150,3,"Lamb, Luna and Nguyen"
+01/15/2023,D004,Alternator Assembly,14,14,0,0,0,120,168.0,50,7,Figueroa Inc
+01/15/2023,D005,Radiator Coolant,183,183,0,0,0,12,16.8,200,2,"Young, Flores and Weaver"
+01/15/2023,D006,Timing Belt Kit,25,0,2,25,0,55,77.0,60,6,Green and Sons
+01/15/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,"Webb, Haynes and Barrett"
+01/15/2023,D008,Transmission Fluid,0,0,0,0,0,18,25.2,180,2,Boyd-Burgess
+01/15/2023,D009,Catalytic Converter,0,0,1,0,0,180,252.0,30,10,"Morris, Jarvis and Grimes"
+01/15/2023,D010,Fuel Injector,0,0,1,0,0,95,133.0,60,8,Holder-White
+01/15/2023,D011,Air Filter Unit,242,388,0,0,146,10,14.0,250,2,Baker-Ortiz
+01/15/2023,D012,Spark Plug Set,0,0,3,0,0,14,19.6,300,2,"Wright, Luna and Day"
+01/15/2023,D013,Power Steering Pump,0,0,2,0,0,110,154.0,40,9,"Johnson, Chambers and Jackson"
+01/15/2023,D014,Exhaust Manifold,0,0,1,0,0,140,196.0,35,10,Knox Group
+01/15/2023,D015,Clutch Plate Assembly,0,0,0,0,0,95,133.0,45,7,"Andersen, Cisneros and Gomez"
+01/16/2023,D001,Engine Oil Filter,89,0,5,89,0,8,11.2,300,2,Flores Ltd
+01/16/2023,D002,Car Battery 12V,0,0,1,0,0,45,63.0,100,5,Ritter LLC
+01/16/2023,D003,Brake Pad Set,0,0,0,0,0,35,49.0,150,3,Burns Inc
+01/16/2023,D004,Alternator Assembly,0,0,1,0,0,120,168.0,50,7,Jones Inc
+01/16/2023,D005,Radiator Coolant,0,0,4,0,0,12,16.8,200,2,Allen Ltd
+01/16/2023,D006,Timing Belt Kit,0,0,1,0,0,55,77.0,60,6,Smith LLC
+01/16/2023,D007,Shock Absorber,51,51,1,0,0,85,119.0,75,5,Anderson and Sons
+01/16/2023,D008,Transmission Fluid,0,0,3,0,0,18,25.2,180,2,Thompson LLC
+01/16/2023,D009,Catalytic Converter,0,0,0,0,0,180,252.0,30,10,"Owens, Odom and Ball"
+01/16/2023,D010,Fuel Injector,0,0,0,0,0,95,133.0,60,8,Jensen Ltd
+01/16/2023,D011,Air Filter Unit,346,308,4,146,104,10,14.0,250,2,"Salinas, Castillo and Scott"
+01/16/2023,D012,Spark Plug Set,0,0,2,0,0,14,19.6,300,2,"Murray, Clarke and Shaw"
+01/16/2023,D013,Power Steering Pump,0,0,0,0,0,110,154.0,40,9,Perez Ltd
+01/16/2023,D014,Exhaust Manifold,0,0,2,0,0,140,196.0,35,10,"Stevens, Williams and Clark"
+01/16/2023,D015,Clutch Plate Assembly,0,0,2,0,0,95,133.0,45,7,Donovan-Lewis
+01/17/2023,D001,Engine Oil Filter,0,0,0,0,0,8,11.2,300,2,Sanchez Group
+01/17/2023,D002,Car Battery 12V,0,0,2,0,0,45,63.0,100,5,Simmons LLC
+01/17/2023,D003,Brake Pad Set,0,0,3,0,0,35,49.0,150,3,Mendez-Smith
+01/17/2023,D004,Alternator Assembly,0,0,0,0,0,120,168.0,50,7,Harris LLC
+01/17/2023,D005,Radiator Coolant,0,0,2,0,0,12,16.8,200,2,"Turner, Williams and Thomas"
+01/17/2023,D006,Timing Belt Kit,12,14,2,0,0,55,77.0,60,6,Robles Inc
+01/17/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,Newman-Lee
+01/17/2023,D008,Transmission Fluid,0,0,0,0,0,18,25.2,180,2,Frederick-Robertson
+01/17/2023,D009,Catalytic Converter,0,0,0,0,0,180,252.0,30,10,Vargas Group
+01/17/2023,D010,Fuel Injector,0,0,0,0,0,95,133.0,60,8,Willis-Garcia
+01/17/2023,D011,Air Filter Unit,104,0,5,104,0,10,14.0,250,2,Smith LLC
+01/17/2023,D012,Spark Plug Set,160,160,5,0,0,14,19.6,300,2,White-Whitaker
+01/17/2023,D013,Power Steering Pump,29,29,2,0,0,110,154.0,40,9,Wagner-West
+01/17/2023,D014,Exhaust Manifold,0,0,1,0,0,140,196.0,35,10,"Whitaker, York and Murray"
+01/17/2023,D015,Clutch Plate Assembly,49,49,0,0,0,95,133.0,45,7,Hill Group
+01/18/2023,D001,Engine Oil Filter,269,335,0,0,66,8,11.2,300,2,"Rodgers, Coleman and Le"
+01/18/2023,D002,Car Battery 12V,84,84,2,0,0,45,63.0,100,5,"Nguyen, Perez and Krause"
+01/18/2023,D003,Brake Pad Set,0,0,0,0,0,35,49.0,150,3,Rodriguez Ltd
+01/18/2023,D004,Alternator Assembly,60,60,2,0,0,120,168.0,50,7,"Perez, Parker and Craig"
+01/18/2023,D005,Radiator Coolant,0,0,2,0,0,12,16.8,200,2,"Mcdonald, Garcia and Hamilton"
+01/18/2023,D006,Timing Belt Kit,0,0,2,0,0,55,77.0,60,6,Lawson-Berry
+01/18/2023,D007,Shock Absorber,51,51,0,0,0,85,119.0,75,5,"Obrien, Hurst and Scott"
+01/18/2023,D008,Transmission Fluid,79,79,1,0,0,18,25.2,180,2,Thompson PLC
+01/18/2023,D009,Catalytic Converter,60,60,1,0,0,180,252.0,30,10,"Williams, Wells and Peterson"
+01/18/2023,D010,Fuel Injector,0,0,0,0,0,95,133.0,60,8,"Miller, Payne and Giles"
+01/18/2023,D011,Air Filter Unit,0,0,0,0,0,10,14.0,250,2,"Brewer, Guzman and Mcclure"
+01/18/2023,D012,Spark Plug Set,0,0,0,0,0,14,19.6,300,2,Morris-Smith
+01/18/2023,D013,Power Steering Pump,0,0,0,0,0,110,154.0,40,9,"Rowe, Young and Park"
+01/18/2023,D014,Exhaust Manifold,0,0,3,0,0,140,196.0,35,10,Lopez-Fuller
+01/18/2023,D015,Clutch Plate Assembly,0,0,2,0,0,95,133.0,45,7,"Baker, Davis and Andrews"
+01/19/2023,D001,Engine Oil Filter,66,0,5,66,0,8,11.2,300,2,Sharp-Russell
+01/19/2023,D002,Car Battery 12V,0,0,1,0,0,45,63.0,100,5,Morris-Daniel
+01/19/2023,D003,Brake Pad Set,0,0,2,0,0,35,49.0,150,3,"Dunn, Smith and Adams"
+01/19/2023,D004,Alternator Assembly,0,0,1,0,0,120,168.0,50,7,Alvarado and Sons
+01/19/2023,D005,Radiator Coolant,163,163,1,0,0,12,16.8,200,2,Dillon-Nelson
+01/19/2023,D006,Timing Belt Kit,0,0,2,0,0,55,77.0,60,6,Hubbard Ltd
+01/19/2023,D007,Shock Absorber,0,0,1,0,0,85,119.0,75,5,May Inc
+01/19/2023,D008,Transmission Fluid,70,70,0,0,0,18,25.2,180,2,Thomas LLC
+01/19/2023,D009,Catalytic Converter,16,16,1,0,0,180,252.0,30,10,Berger Group
+01/19/2023,D010,Fuel Injector,0,0,0,0,0,95,133.0,60,8,"Gonzales, Burke and Williams"
+01/19/2023,D011,Air Filter Unit,199,199,5,0,0,10,14.0,250,2,"Hall, Brooks and Smith"
+01/19/2023,D012,Spark Plug Set,0,0,1,0,0,14,19.6,300,2,"Ellis, Lawrence and Jones"
+01/19/2023,D013,Power Steering Pump,43,43,0,0,0,110,154.0,40,9,"Ortiz, Johns and Gross"
+01/19/2023,D014,Exhaust Manifold,0,0,3,0,0,140,196.0,35,10,Washington-Castillo
+01/19/2023,D015,Clutch Plate Assembly,0,0,2,0,0,95,133.0,45,7,Baker-Flores
+01/20/2023,D001,Engine Oil Filter,0,0,2,0,0,8,11.2,300,2,Scott-Browning
+01/20/2023,D002,Car Battery 12V,0,0,2,0,0,45,63.0,100,5,Smith-Adams
+01/20/2023,D003,Brake Pad Set,0,0,2,0,0,35,49.0,150,3,Patel Ltd
+01/20/2023,D004,Alternator Assembly,0,0,1,0,0,120,168.0,50,7,"Meza, Terry and Knight"
+01/20/2023,D005,Radiator Coolant,0,0,2,0,0,12,16.8,200,2,Matthews Ltd
+01/20/2023,D006,Timing Belt Kit,0,0,0,0,0,55,77.0,60,6,"Lloyd, Lynch and Hunter"
+01/20/2023,D007,Shock Absorber,0,0,1,0,0,85,119.0,75,5,"Smith, Holmes and Williams"
+01/20/2023,D008,Transmission Fluid,0,0,0,0,0,18,25.2,180,2,Smith-Avila
+01/20/2023,D009,Catalytic Converter,0,0,2,0,0,180,252.0,30,10,Meadows-Perez
+01/20/2023,D010,Fuel Injector,19,26,1,0,6,95,133.0,60,8,Martin LLC
+01/20/2023,D011,Air Filter Unit,0,0,2,0,0,10,14.0,250,2,"Williams, Zamora and Francis"
+01/20/2023,D012,Spark Plug Set,0,0,3,0,0,14,19.6,300,2,Arnold-Harris
+01/20/2023,D013,Power Steering Pump,0,0,2,0,0,110,154.0,40,9,Hunter-Parker
+01/20/2023,D014,Exhaust Manifold,0,0,3,0,0,140,196.0,35,10,"Curtis, Martinez and Holloway"
+01/20/2023,D015,Clutch Plate Assembly,0,0,1,0,0,95,133.0,45,7,Franklin Inc
+01/21/2023,D001,Engine Oil Filter,0,0,3,0,0,8,11.2,300,2,"Bowman, Jenkins and Cervantes"
+01/21/2023,D002,Car Battery 12V,0,0,0,0,0,45,63.0,100,5,"Jones, Thomas and Parker"
+01/21/2023,D003,Brake Pad Set,0,0,1,0,0,35,49.0,150,3,Hunter Ltd
+01/21/2023,D004,Alternator Assembly,31,31,1,0,0,120,168.0,50,7,"Schneider, Ayala and Harris"
+01/21/2023,D005,Radiator Coolant,0,0,3,0,0,12,16.8,200,2,"Jones, Potter and Mcdonald"
+01/21/2023,D006,Timing Belt Kit,20,20,1,0,0,55,77.0,60,6,Heath-Hill
+01/21/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,Hamilton-Simpson
+01/21/2023,D008,Transmission Fluid,0,0,1,0,0,18,25.2,180,2,Smith Inc
+01/21/2023,D009,Catalytic Converter,0,0,2,0,0,180,252.0,30,10,Andrews-Richmond
+01/21/2023,D010,Fuel Injector,18,12,1,6,0,95,133.0,60,8,Larson-Perkins
+01/21/2023,D011,Air Filter Unit,0,0,2,0,0,10,14.0,250,2,Scott and Sons
+01/21/2023,D012,Spark Plug Set,0,0,4,0,0,14,19.6,300,2,"Nicholson, Hess and Brewer"
+01/21/2023,D013,Power Steering Pump,0,0,1,0,0,110,154.0,40,9,Gilbert LLC
+01/21/2023,D014,Exhaust Manifold,0,0,2,0,0,140,196.0,35,10,Rasmussen Group
+01/21/2023,D015,Clutch Plate Assembly,31,46,2,0,13,95,133.0,45,7,"Hurley, Dean and Walters"
+01/22/2023,D001,Engine Oil Filter,0,0,2,0,0,8,11.2,300,2,"Wood, Allen and Durham"
+01/22/2023,D002,Car Battery 12V,0,0,0,0,0,45,63.0,100,5,Warner-Santos
+01/22/2023,D003,Brake Pad Set,0,0,0,0,0,35,49.0,150,3,Clark PLC
+01/22/2023,D004,Alternator Assembly,0,0,0,0,0,120,168.0,50,7,Richardson LLC
+01/22/2023,D005,Radiator Coolant,0,0,4,0,0,12,16.8,200,2,Mccarty-Hall
+01/22/2023,D006,Timing Belt Kit,0,0,1,0,0,55,77.0,60,6,"Murphy, Davidson and Fitzpatrick"
+01/22/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,"James, Herrera and Wise"
+01/22/2023,D008,Transmission Fluid,68,68,1,0,0,18,25.2,180,2,Smith-Jackson
+01/22/2023,D009,Catalytic Converter,0,0,1,0,0,180,252.0,30,10,"Haley, Clements and Johnson"
+01/22/2023,D010,Fuel Injector,0,0,2,0,0,95,133.0,60,8,"Powell, Kemp and Mitchell"
+01/22/2023,D011,Air Filter Unit,0,0,2,0,0,10,14.0,250,2,"Calderon, Hayes and Beasley"
+01/22/2023,D012,Spark Plug Set,0,0,1,0,0,14,19.6,300,2,"Taylor, Williams and Rodriguez"
+01/22/2023,D013,Power Steering Pump,0,0,2,0,0,110,154.0,40,9,"Williams, Gaines and Williams"
+01/22/2023,D014,Exhaust Manifold,0,0,3,0,0,140,196.0,35,10,Perry Inc
+01/22/2023,D015,Clutch Plate Assembly,13,0,0,13,0,95,133.0,45,7,Thomas LLC
+01/23/2023,D001,Engine Oil Filter,0,0,3,0,0,8,11.2,300,2,"Patrick, Soto and Olson"
+01/23/2023,D002,Car Battery 12V,110,110,2,0,0,45,63.0,100,5,"Perez, Davila and Rodriguez"
+01/23/2023,D003,Brake Pad Set,91,128,2,0,35,35,49.0,150,3,"Martinez, Greer and Boyd"
+01/23/2023,D004,Alternator Assembly,0,0,1,0,0,120,168.0,50,7,"Atkinson, Gonzales and Hanson"
+01/23/2023,D005,Radiator Coolant,0,0,0,0,0,12,16.8,200,2,Johnson-Owens
+01/23/2023,D006,Timing Belt Kit,0,0,2,0,0,55,77.0,60,6,"Wallace, Marsh and Farrell"
+01/23/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,Tucker-Klein
+01/23/2023,D008,Transmission Fluid,0,0,0,0,0,18,25.2,180,2,"Scott, Fry and Richard"
+01/23/2023,D009,Catalytic Converter,0,0,2,0,0,180,252.0,30,10,"Gonzales, Martinez and Wolf"
+01/23/2023,D010,Fuel Injector,0,0,1,0,0,95,133.0,60,8,Johnson-Spencer
+01/23/2023,D011,Air Filter Unit,0,0,5,0,0,10,14.0,250,2,Ritter Inc
+01/23/2023,D012,Spark Plug Set,0,0,2,0,0,14,19.6,300,2,"Ruiz, Wilson and Gardner"
+01/23/2023,D013,Power Steering Pump,0,0,2,0,0,110,154.0,40,9,Ayers-James
+01/23/2023,D014,Exhaust Manifold,0,0,1,0,0,140,196.0,35,10,Davis-Delacruz
+01/23/2023,D015,Clutch Plate Assembly,0,0,1,0,0,95,133.0,45,7,Jones-Jones
+01/24/2023,D001,Engine Oil Filter,0,0,2,0,0,8,11.2,300,2,Taylor-Tran
+01/24/2023,D002,Car Battery 12V,0,0,2,0,0,45,63.0,100,5,"Smith, Hobbs and Parker"
+01/24/2023,D003,Brake Pad Set,35,0,1,35,0,35,49.0,150,3,Gonzalez Ltd
+01/24/2023,D004,Alternator Assembly,36,52,0,0,16,120,168.0,50,7,Santiago Group
+01/24/2023,D005,Radiator Coolant,0,0,2,0,0,12,16.8,200,2,Stanley-Wagner
+01/24/2023,D006,Timing Belt Kit,0,0,0,0,0,55,77.0,60,6,Medina Inc
+01/24/2023,D007,Shock Absorber,0,0,2,0,0,85,119.0,75,5,Thomas Group
+01/24/2023,D008,Transmission Fluid,110,117,1,0,6,18,25.2,180,2,Little Group
+01/24/2023,D009,Catalytic Converter,28,28,1,0,0,180,252.0,30,10,Mitchell Ltd
+01/24/2023,D010,Fuel Injector,32,46,0,0,14,95,133.0,60,8,Schaefer PLC
+01/24/2023,D011,Air Filter Unit,0,0,1,0,0,10,14.0,250,2,Brown-Washington
+01/24/2023,D012,Spark Plug Set,0,0,1,0,0,14,19.6,300,2,"Moore, Carrillo and Barnes"
+01/24/2023,D013,Power Steering Pump,0,0,2,0,0,110,154.0,40,9,"Schneider, Davis and Cervantes"
+01/24/2023,D014,Exhaust Manifold,0,0,0,0,0,140,196.0,35,10,Hartman Group
+01/24/2023,D015,Clutch Plate Assembly,0,0,1,0,0,95,133.0,45,7,"Henry, Crawford and Campbell"
+01/25/2023,D001,Engine Oil Filter,0,0,2,0,0,8,11.2,300,2,"Valdez, Mayer and Rivera"
+01/25/2023,D002,Car Battery 12V,0,0,0,0,0,45,63.0,100,5,"Arroyo, Hansen and Wright"
+01/25/2023,D003,Brake Pad Set,0,0,0,0,0,35,49.0,150,3,"Zuniga, Allen and Townsend"
+01/25/2023,D004,Alternator Assembly,16,0,2,16,0,120,168.0,50,7,"Peterson, Hammond and Smith"
+01/25/2023,D005,Radiator Coolant,0,0,0,0,0,12,16.8,200,2,"English, Richards and Mcconnell"
+01/25/2023,D006,Timing Belt Kit,0,0,1,0,0,55,77.0,60,6,Jones and Sons
+01/25/2023,D007,Shock Absorber,0,0,2,0,0,85,119.0,75,5,"Harris, Sanchez and Jones"
+01/25/2023,D008,Transmission Fluid,6,0,1,6,0,18,25.2,180,2,Brown Inc
+01/25/2023,D009,Catalytic Converter,0,0,0,0,0,180,252.0,30,10,Olson-Buchanan
+01/25/2023,D010,Fuel Injector,14,0,2,14,0,95,133.0,60,8,Walton-Simmons
+01/25/2023,D011,Air Filter Unit,0,0,0,0,0,10,14.0,250,2,Ray-Navarro
+01/25/2023,D012,Spark Plug Set,0,0,5,0,0,14,19.6,300,2,Riddle PLC
+01/25/2023,D013,Power Steering Pump,0,0,1,0,0,110,154.0,40,9,Rowe Ltd
+01/25/2023,D014,Exhaust Manifold,0,0,1,0,0,140,196.0,35,10,Gilbert-White
+01/25/2023,D015,Clutch Plate Assembly,25,35,2,0,8,95,133.0,45,7,Cardenas-Alexander
+01/26/2023,D001,Engine Oil Filter,0,0,5,0,0,8,11.2,300,2,Campbell-Lee
+01/26/2023,D002,Car Battery 12V,0,0,3,0,0,45,63.0,100,5,"Gardner, Stevens and Parker"
+01/26/2023,D003,Brake Pad Set,0,0,1,0,0,35,49.0,150,3,Durham-Hoffman
+01/26/2023,D004,Alternator Assembly,51,51,0,0,0,120,168.0,50,7,Arnold-Pugh
+01/26/2023,D005,Radiator Coolant,318,318,1,0,0,12,16.8,200,2,Gutierrez LLC
+01/26/2023,D006,Timing Belt Kit,0,0,1,0,0,55,77.0,60,6,Jefferson-Myers
+01/26/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,"Johnston, Bonilla and Walter"
+01/26/2023,D008,Transmission Fluid,0,0,1,0,0,18,25.2,180,2,"Rivas, Pena and Ward"
+01/26/2023,D009,Catalytic Converter,0,0,0,0,0,180,252.0,30,10,"Schwartz, Grant and Smith"
+01/26/2023,D010,Fuel Injector,0,0,0,0,0,95,133.0,60,8,"Jones, Campbell and Green"
+01/26/2023,D011,Air Filter Unit,0,0,4,0,0,10,14.0,250,2,Clark Inc
+01/26/2023,D012,Spark Plug Set,364,364,4,0,0,14,19.6,300,2,Robinson-Noble
+01/26/2023,D013,Power Steering Pump,0,0,0,0,0,110,154.0,40,9,"Ford, Ruiz and Hill"
+01/26/2023,D014,Exhaust Manifold,0,0,1,0,0,140,196.0,35,10,Stewart-Williamson
+01/26/2023,D015,Clutch Plate Assembly,24,16,1,8,0,95,133.0,45,7,"Hill, Olson and Dean"
+01/27/2023,D001,Engine Oil Filter,0,0,5,0,0,8,11.2,300,2,Guzman and Sons
+01/27/2023,D002,Car Battery 12V,59,59,3,0,0,45,63.0,100,5,Smith-Baker
+01/27/2023,D003,Brake Pad Set,0,0,2,0,0,35,49.0,150,3,Hill-Myers
+01/27/2023,D004,Alternator Assembly,27,50,1,0,22,120,168.0,50,7,Bailey PLC
+01/27/2023,D005,Radiator Coolant,0,0,1,0,0,12,16.8,200,2,Oconnor-Moore
+01/27/2023,D006,Timing Belt Kit,0,0,0,0,0,55,77.0,60,6,Taylor PLC
+01/27/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,"Beck, Bridges and Pace"
+01/27/2023,D008,Transmission Fluid,0,0,0,0,0,18,25.2,180,2,"Madden, Reeves and Thompson"
+01/27/2023,D009,Catalytic Converter,0,0,1,0,0,180,252.0,30,10,Contreras Inc
+01/27/2023,D010,Fuel Injector,0,0,1,0,0,95,133.0,60,8,"Austin, Salazar and Garcia"
+01/27/2023,D011,Air Filter Unit,0,0,5,0,0,10,14.0,250,2,"Berry, Harvey and Young"
+01/27/2023,D012,Spark Plug Set,0,0,1,0,0,14,19.6,300,2,Singh PLC
+01/27/2023,D013,Power Steering Pump,0,0,1,0,0,110,154.0,40,9,"Patrick, Davis and Bailey"
+01/27/2023,D014,Exhaust Manifold,0,0,0,0,0,140,196.0,35,10,"Woods, Greene and Bennett"
+01/27/2023,D015,Clutch Plate Assembly,0,0,1,0,0,95,133.0,45,7,"Morton, Perez and Hamilton"
+01/28/2023,D001,Engine Oil Filter,0,0,4,0,0,8,11.2,300,2,Williams and Sons
+01/28/2023,D002,Car Battery 12V,91,95,0,0,4,45,63.0,100,5,"Alvarez, Johnson and Leblanc"
+01/28/2023,D003,Brake Pad Set,110,130,2,0,18,35,49.0,150,3,"Schultz, Patel and Dixon"
+01/28/2023,D004,Alternator Assembly,18,0,1,22,3,120,168.0,50,7,Burke-Perry
+01/28/2023,D005,Radiator Coolant,333,333,2,0,0,12,16.8,200,2,"Coleman, Burke and Johnson"
+01/28/2023,D006,Timing Belt Kit,0,0,1,0,0,55,77.0,60,6,"Martinez, Turner and Lee"
+01/28/2023,D007,Shock Absorber,0,0,0,0,0,85,119.0,75,5,Delacruz-Rivera
+01/28/2023,D008,Transmission Fluid,0,0,1,0,0,18,25.2,180,2,Stanley PLC
+01/28/2023,D009,Catalytic Converter,0,0,1,0,0,180,252.0,30,10,Alexander PLC
+01/28/2023,D010,Fuel Injector,0,0,2,0,0,95,133.0,60,8,Shields-Cruz
+01/28/2023,D011,Air Filter Unit,0,0,2,0,0,10,14.0,250,2,Hensley-Shaw
+01/28/2023,D012,Spark Plug Set,218,218,2,0,0,14,19.6,300,2,Evans-Trevino
+01/28/2023,D013,Power Steering Pump,0,0,1,0,0,110,154.0,40,9,Morgan PLC
+01/28/2023,D014,Exhaust Manifold,0,0,1,0,0,140,196.0,35,10,Oconnor-Higgins
+01/28/2023,D015,Clutch Plate Assembly,0,0,0,0,0,95,133.0,45,7,Hopkins-Mcgee
+01/29/2023,D001,Engine Oil Filter,0,0,4,0,0,8,11.2,300,2,Hill-Mills
+01/29/2023,D002,Car Battery 12V,4,0,2,4,0,45,63.0,100,5,Hill-Wilkins
+01/29/2023,D003,Brake Pad Set,18,0,3,18,0,35,49.0,150,3,Hunter PLC
+01/29/2023,D004,Alternator Assembly,3,0,0,3,0,120,168.0,50,7,Ramirez-Valenzuela
+01/29/2023,D005,Radiator Coolant,0,0,1,0,0,12,16.8,200,2,Flores-Johnson
+01/29/2023,D006,Timing Belt Kit,0,0,1,0,0,55,77.0,60,6,Williams-Dickerson
+01/29/2023,D007,Shock Absorber,0,0,2,0,0,85,119.0,75,5,Rodriguez-Wright
+01/29/2023,D008,Transmission Fluid,96,110,3,0,11,18,25.2,180,2,Acosta-Schultz
+01/29/2023,D009,Catalytic Converter,34,34,1,0,0,180,252.0,30,10,"Osborn, Frank and Burke"
+01/29/2023,D010,Fuel Injector,23,23,0,0,0,95,133.0,60,8,"Vincent, Cruz and George"
+01/29/2023,D011,Air Filter Unit,0,0,0,0,0,10,14.0,250,2,"Haynes, Lozano and Smith"
+01/29/2023,D012,Spark Plug Set,0,0,5,0,0,14,19.6,300,2,"Meyer, Mills and Lewis"
+01/29/2023,D013,Power Steering Pump,0,0,1,0,0,110,154.0,40,9,Castillo-Martin
+01/29/2023,D014,Exhaust Manifold,0,0,2,0,0,140,196.0,35,10,Evans LLC
+01/29/2023,D015,Clutch Plate Assembly,0,0,2,0,0,95,133.0,45,7,"Pierce, Kim and Silva"
+01/30/2023,D001,Engine Oil Filter,0,0,5,0,0,8,11.2,300,2,"Woodard, Scott and George"
+01/30/2023,D002,Car Battery 12V,0,0,3,0,0,45,63.0,100,5,Wilson LLC
+01/30/2023,D003,Brake Pad Set,0,0,0,0,0,35,49.0,150,3,"Fowler, Smith and Cole"
+01/30/2023,D004,Alternator Assembly,17,51,0,0,34,120,168.0,50,7,Williams LLC
+01/30/2023,D005,Radiator Coolant,0,0,0,0,0,12,16.8,200,2,Hopkins-Dunn
+01/30/2023,D006,Timing Belt Kit,0,0,0,0,0,55,77.0,60,6,Kelly-Walker
+01/30/2023,D007,Shock Absorber,25,25,1,0,0,85,119.0,75,5,Thomas-Franklin
+01/30/2023,D008,Transmission Fluid,11,0,1,11,0,18,25.2,180,2,Hughes Inc
+01/30/2023,D009,Catalytic Converter,0,0,1,0,0,180,252.0,30,10,Berry Ltd
+01/30/2023,D010,Fuel Injector,0,0,0,0,0,95,133.0,60,8,Reeves-Clark
+01/30/2023,D011,Air Filter Unit,0,0,3,0,0,10,14.0,250,2,"Walton, Brown and Thompson"
+01/30/2023,D012,Spark Plug Set,220,241,3,0,18,14,19.6,300,2,Reed-Hanson
+01/30/2023,D013,Power Steering Pump,0,0,0,0,0,110,154.0,40,9,Herman and Sons
+01/30/2023,D014,Exhaust Manifold,0,0,3,0,0,140,196.0,35,10,Jackson Group
+01/30/2023,D015,Clutch Plate Assembly,0,0,0,0,0,95,133.0,45,7,Lowery LLC
